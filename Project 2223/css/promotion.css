@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-header {
+    font-family: 'linlivertine';
+    font-size: larger;
+}
+
+.main-header {
+    background-image: url(../image/back-ground/bg-header.jpg);
+}
+
+.sub-header {
+    font-size: 14px;
+    line-height: 14px;
+    color: #6F6247;
+    background-color: #EFEBDB;
+}
+
+.sub-header a:hover {
+    text-decoration: underline;
+    color: #9c8f73
+}
+
+.tilte-khuyen-mai > h5 {
+    display: block;
+    font-family: 'linlivertine';
+    font-style: italic;
+}
+
+a { color: #080808;}
+a:hover { color: rgb(95, 95, 95); }
+a:link { text-decoration: none; }
+
+hr { 
+    display: block;
+    border-width: 1px;
+    background-color: #b9a885;
+    color: #b9a885;
+}
+
+ul li {
+    list-style: none;
+    margin: 5px;
+}
+
+.footer {
+    background-image: url(../image/back-ground/bg-footer.jpg);
+    background-repeat: repeat;
+    height: 100px;
+}

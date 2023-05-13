@@ -1,0 +1,165 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-header a {
+    font-size: larger;
+    font-family: 'linlivertine';
+}
+
+.main-header {
+    background-image: url('https://i.pinimg.com/236x/cb/3f/2e/cb3f2e460ebecfb516073f9918126396.jpg');
+}
+
+.sub-header {
+    font-size: 14px;
+    line-height: 14px;
+    color: #6F6247;
+    background-color: #EFEBDB;
+}
+
+.sub-header a:hover {
+    text-decoration: underline;
+    color: #9c8f73
+}
+
+.tilte-film > h5 {
+    display: block;
+    font-family: 'linlivertine';
+    font-style: italic;
+}
+
+a, h2 { color: #080808;}
+a:hover { color: rgb(95, 95, 95); }
+a:link { text-decoration: none; }
+
+ul li {
+    list-style: none;
+    padding: 0;
+    margin: 5px;
+}
+
+hr { 
+    display: block;
+    border-width: 1px;
+    background-color: #b9a885;
+    color: #b9a885;
+}
+
+.footer {
+    background-image: url(../image/back-ground/bg-footer.jpg);
+    background-repeat: repeat;
+    height: 100px;
+}
+
+.button-day {
+    width: 100px;
+    height:60px;
+    margin-left: 10px;
+    background: #efebdb;
+    color: #6f6247;
+    font-size: 16px;
+    line-height: 50px;
+    text-align: center;
+    border: none;
+    border: 2px solid #cdc197;
+    border-radius: 4px;
+}
+
+.button-day-after {
+    background: #231f20 no-repeat 0 0;
+    color: #cdc197;
+    font-weight: bold;
+    border-radius: 4px;
+
+}
+li{
+    list-style: none;
+    padding: 0;
+    margin: 5px;
+}
+
+.movie-time-after{
+    background: #231f20 no-repeat 0 0;
+    color: #cdc197;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+.chair-after{
+    background: #ff0000 no-repeat 0 0;
+    color: #ffffff;
+    border-radius: 3px;
+}
+
+.theater{
+    background: #cabf98 no-repeat 0 0;
+    
+}
+
+.screen{
+    background: #ccc;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.detail-chair{
+    border-color: #080808;
+    border-radius: 3px;
+    width:30px;
+    height:25px; 
+    background: #ffffff;
+    margin: auto;
+}
+
+.detail-chair-selecting{
+    border-color: #000000;
+    border-radius: 3px;
+    width:30px;
+    height:25px; 
+    background: #ff0000;
+}
+
+.detail-chair-selected{
+    border-color: #000000;
+    border-radius: 3px;
+    width:30px;
+    height:25px; 
+    background: #353535;
+}
+
+.modal-lg {
+    max-width: 100% !important;
+}
+
+.form-input {
+    border: 1px solid #b9a885;
+    width: 200px;
+}
+
+.form-input-medium {
+    border: 1px solid #b9a885;
+    width: 85px;
+}
+
+.form-input-small {
+    border: 1px solid #b9a885;
+    width: 30px;
+}
+
+.button-login {
+    width: 250px;
+    height: 50px;
+    background: #efebdb;
+    color: #6f6247;
+    font-size: 16px;
+    line-height: 50px;
+    text-align: center;
+    border: none;
+}
+
+.button-login:focus {
+    background: #231f20;
+    color: #cdc197;
+    font-weight: bold;
+}
