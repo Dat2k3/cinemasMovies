@@ -19,3 +19,4 @@ Step 4: Access your localhost (example http://localhost:8080/)
 Step 5: Open home.php to start test (example http://localhost:8080/home.php)
 
 Hint: Manager only out admin.php by the way click icon CGV in the top left of the page.
+Link page: http://cgv.great-site.net/home.php
